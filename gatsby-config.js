@@ -43,8 +43,8 @@ module.exports = {
       resolve: `gatsby-source-wordpress`,
         options: {
             // Specify the URL of the WordPress source
-            url: `http://mywp.local/graphql`,
-            protocol: `http`,
+            url: `https://mooms.000webhostapp.com/graphql`,
+            protocol: `https`,
         }
     }
   ],
